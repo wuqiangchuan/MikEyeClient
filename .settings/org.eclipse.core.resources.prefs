@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//bin/ConnToServ.py=utf-8
+encoding//conf/client_conf.py=utf-8
+encoding//core/Amain.py=utf-8
+encoding//core/sendmsg.py=utf-8
+encoding//plugin/DiskUsed.py=utf-8
+encoding//plugin/HardWareInfo.py=utf-8
+encoding//plugin/LinuxCPU.py=utf-8
+encoding//plugin/LinuxLoad.py=utf-8
+encoding//plugin/MemLoad.py=utf-8
+encoding//plugin/NetInOut.py=utf-8
+encoding//plugin/Plugin_Name.py=utf-8
+encoding//plugin/SwapLoad.py=utf-8
+encoding//plugin/comm.py=utf-8
+encoding/MikeyeStart.py=utf-8
